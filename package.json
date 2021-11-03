@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-blade",
-  "version": "0.9",
+  "version": "0.9.0",
   "description": "highlight.js syntax definition for Laravel Blade templates",
   "main": "src/languages/blade.js",
   "repository": {
